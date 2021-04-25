@@ -33,4 +33,4 @@ However, the micro:bit v1.5 cannot use blocks related to "data communication" du
 - Safari (Using Scratch Link)
 
 #### iPad
-[Bluefy](https://apps.apple.com/jp/app/bluefy-web-ble-browser/id1492822055) (However, you will not be able to save the project.)
+- [Bluefy](https://apps.apple.com/jp/app/bluefy-web-ble-browser/id1492822055) (However, you will not be able to save the project.)

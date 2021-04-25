@@ -32,4 +32,4 @@ micro:bit v1.5, v2.0 で利用できます。
 - Safari (Scratch Link利用)
 
 #### iPad
-[Bluefy](https://apps.apple.com/jp/app/bluefy-web-ble-browser/id1492822055) (ただし、プロジェクトを保存できません。)
+- [Bluefy](https://apps.apple.com/jp/app/bluefy-web-ble-browser/id1492822055) (ただし、プロジェクトを保存できません。)
