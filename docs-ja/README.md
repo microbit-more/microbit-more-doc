@@ -33,13 +33,3 @@ micro:bit v1.5, v2.0 で利用できます。
 
 #### iPad
 [Bluefy](https://apps.apple.com/jp/app/bluefy-web-ble-browser/id1492822055) (ただし、プロジェクトを保存できません。)
-
-## 使い方
-
-Microbit More を使う前の準備と、実際に micro:bit をつなぐ方法は、「[使い方](setup)」を参照してください。
-
-## 開発
-
-[開発情報](devInfo)
-
-[Microbit More の拡張方法](how-to-extent)
