@@ -33,3 +33,8 @@ micro:bit v1.5, v2.0 で利用できます。
 
 #### iPad
 - [Bluefy](https://apps.apple.com/jp/app/bluefy-web-ble-browser/id1492822055) (ただし、プロジェクトを保存できません。)
+
+## 変更履歴
+
+- [Releases · yokobond/mbit-more-v2](https://github.com/yokobond/mbit-more-v2/releases)
+- [Releases · yokobond/pxt-mbit-more-v2](https://github.com/yokobond/pxt-mbit-more-v2/releases)
