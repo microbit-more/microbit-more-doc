@@ -11,7 +11,7 @@
 
 ### micro:bit
 
-This program can be used with micro:bit v1.5 and v2.0.
+This program can be used with micro:bit v1.3, v1.5 and v2.0.
 
 However, the micro:bit v1.5 cannot use blocks related to "data communication" due to its low memory capacity.
 

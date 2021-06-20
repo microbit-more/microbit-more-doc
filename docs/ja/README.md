@@ -10,7 +10,7 @@ Microbit More は教育向けプログラミング環境 Scratch (スクラッ�
 
 ### micro:bit
 
-micro:bit v1.5, v2.0 で利用できます。
+micro:bit v1.3, v1.5, v2.0 で利用できます。
 
 ただし、micro:bit v1.5 は、メモリー容量が少ないために「データ通信」関係のブロックは使えません。
 
