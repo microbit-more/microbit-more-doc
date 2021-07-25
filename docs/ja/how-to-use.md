@@ -33,6 +33,17 @@ Microbit More 用プログラム [microbit-mbit-more-v2-0_2_3.hex](https://githu
 「パターン ♡ を表示する」をクリックして、どの micro:bit と接続されたのかを確認してみましょう。
 
 ____
+## オフラインで使う
+
+Microbit MoreエディターはPWA(Progressive Web Apps)になっているので、オフラインで利用できます。
+エディター( https://microbit-more.github.io/editor )を開いて2分ほど置いておくと、アドレスバーにインストールボタンが現れます。
+
+![](microbit_more-install_button.png ':size=400')
+
+インストールボタンが現れた後はエディターがブラウザにまるごとキャッシュされているので、たとえインストールしなくても、ネットアクセス無しでScratchを利用できるようになっています。
+
+
+____
 ## USBでつなぐ
 
 「シフト」キーを押しながら接続ボタンを押すと、USB接続を選択できます。

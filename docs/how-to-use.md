@@ -33,6 +33,17 @@ When the connection is established, press the "Go to Editor" button.
 Click "Show pattern ♡" to see which micro:bit is connected.
 
 ____
+## Use it offline
+
+The Microbit More editor is a PWA (Progressive Web Apps), so you can use it offline.
+If you open the editor (https://microbit-more.github.io/editor) and leave it for two minutes, an install button will appear in the address bar.
+
+![](microbit_more-install_button.png ':size=400')
+
+After the install button appears, the entire editor is cached in your browser, so even if you don't install it, you can use Scratch without net access.
+
+
+____
 ## Connecting via USB
 
 Press the Connect button while holding down the "Shift" key to select the USB connection.
